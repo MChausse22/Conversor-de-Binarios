@@ -1,6 +1,5 @@
 
 print('\nNome do projeto: Conversor de números reais para binário')
-print('\nIntegrantes do grupo:\n- Ryan do Nascimento Maciel\n- Matheus Chaussê Xavier')
 
 n = float(input("\nDado de entrada: "))
 
